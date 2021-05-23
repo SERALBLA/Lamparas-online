@@ -161,3 +161,24 @@ header nav a:hover{
     height: auto;
 }
 
+.bombilla{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height:550px;
+    width: 975px;
+    object-fit: cover;
+}
+
+.tipos-de-bombillas{
+    margin-top: 40px;
+
+}
+
+.arriba-de-amazon{
+    margin-bottom: 40px;
+}
+
+.leds{
+    margin-top: 20px;
+}
+
